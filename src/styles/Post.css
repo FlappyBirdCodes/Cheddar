@@ -1,0 +1,49 @@
+#comment {
+  margin-top: 15px;
+}
+
+#username {
+  float: left;
+}
+
+#delete {
+  float: right;
+}
+
+#commentPost {
+  text-align: left;
+  margin-top: -8px;
+}
+
+#comments {
+  margin-top: -6px;
+  margin-bottom: -4px;
+}
+
+#marginLeft {
+  display: inline;
+  margin-left: 35px;
+}
+
+#marginRight {
+  display: inline;
+  margin-right: 35px;
+}
+
+.blueLink {
+  cursor: pointer;
+  color: blue;
+}
+
+.blueLink:hover {
+  text-decoration: underline;
+}
+
+#upvote {
+  cursor: pointer;
+  color: blue;
+}
+
+#upvote:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,71 @@
+#intro {
+  text-align: center;
+}
+
+#posts {
+  width: 700px;
+  margin-right: 3%;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#header {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#subreddits {
+  width: 230px;
+}
+
+.post {
+  margin-bottom: 30px;
+}
+
+img,
+video {
+  width: 50%;
+  height: 300px;
+}
+
+.question {
+  margin-bottom: 4px;
+}
+
+#bodyContent {
+  margin-top: 12px;
+  color: black;
+}
+
+#comments {
+  margin-bottom: 9px;
+}
+
+.noWrap {
+  white-space: nowrap;
+  margin: 0 auto;
+}
+
+#submitInfo {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.sameLine {
+  display: inline;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+#flexCenter {
+  display: flex;
+  justify-content: center;
+}
+
+.postInput {
+  resize: none;
+  margin-bottom: 8px;
+}
+
+.rules {
+  height: 75px;
+}
